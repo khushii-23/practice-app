@@ -1,0 +1,13 @@
+{
+  "name": "aws-practice-backend",
+  "version": "1.0.0",
+  "description": "Tiny dummy API for practicing AWS deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
